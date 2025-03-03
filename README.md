@@ -24,6 +24,8 @@ This is the starter project for Programming in Science Assignment 3. Written in 
    
    - Write a function that takes a dataset and generates a density plot using `matplotlib`.
 
+Note: For question 4 and 5, the test cases are always showing PASS. The solutions for those questions will be evaluated manually.
+
 ### Run Command
 
 To run the tests, use the following command:
